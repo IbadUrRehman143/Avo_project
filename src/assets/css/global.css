@@ -1,0 +1,9 @@
+:root {
+    --primary-clr: #ffbc3b;
+    --secondary-clr: #1e1e4b;
+}
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1000px;
+    }
+}
